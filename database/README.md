@@ -4,7 +4,7 @@
 |-|-|-|
 |595|[大的国家](https://leetcode-cn.com/problems/big-countries/)|[big-countries.sql](https://github.com/dm1299/leetcode/blob/master/database/big-countries.sql)
 |182|[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails/)|[duplicate-emails.sql](https://github.com/dm1299/leetcode/blob/master/database/duplicate-emails.sql)
-|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|swap-salary.sql(https://github.com/dm1299/leetcode/blob/master/database/)
+|627|[交换工资](https://leetcode-cn.com/problems/swap-salary/)|[swap-salary.sql(https://github.com/dm1299/leetcode/blob/master/database/)
 |620|[有趣的电影](https://leetcode-cn.com/problems/not-boring-movies/)|[not-boring-movies.sql](https://github.com/dm1299/leetcode/blob/master/database/not-boring-movies.sql)
 |175|[组合两个表](https://leetcode-cn.com/problems/combine-two-tables/|[combine-two-tables.sql](https://github.com/dm1299/leetcode/blob/master/database/combine-two-tables.sql)
 |181|[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers/)|[employees-earning-more-than-their-managers.sql](https://github.com/dm1299/leetcode/blob/master/database/employees-earning-more-than-their-managers.sql)
