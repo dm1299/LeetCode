@@ -12,4 +12,4 @@
 |196|[删除重复的电子邮箱](https://leetcode-cn.com/problems/delete-duplicate-emails/)|[delete-duplicate-emails.sql](https://github.com/dm1299/leetcode/blob/master/database/delete-duplicate-emails.sql)|
 |197|[上升的温度](https://leetcode-cn.com/problems/rising-temperature/)|[rising-temperature.sql](https://github.com/dm1299/leetcode/blob/master/database/rising-temperature.sql)|
 |596|[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students/)|[classes-more-than-5-students.sql](https://github.com/dm1299/leetcode/blob/master/database/classes-more-than-5-students.sql)|
-|<font color=Red>176</font>|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[second-highest-salarystudents.sql](https://github.com/dm1299/leetcode/blob/master/database/second-highest-salary.sql)|
+|<font color="Red">176</font>|[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary/)|[second-highest-salarystudents.sql](https://github.com/dm1299/leetcode/blob/master/database/second-highest-salary.sql)|
