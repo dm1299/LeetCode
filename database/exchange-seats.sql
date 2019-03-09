@@ -5,5 +5,5 @@ select (case
         else id-1 
         end) id, student 
 from seat
-order by id;
-
+order by id
+;

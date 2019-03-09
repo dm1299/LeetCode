@@ -7,10 +7,12 @@ left join (
     from (select distinct Score from Scores) Scores, (select @row:=0) r
     order by Score desc
 ) t2
-on t1.Score=t2.Score;
+on t1.Score=t2.Score
+;
 
 # 方法二：使用子查询
 select Score, 
 (select count(distinct Score) from Scores where Score >= s.Score) Rank
 from Scores s
-order by Score desc;
+order by Score desc
+;
